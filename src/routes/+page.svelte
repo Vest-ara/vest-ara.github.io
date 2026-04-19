@@ -209,7 +209,7 @@
 		</span>
 	</h1>
 	<p class="mt-5 max-w-xl text-lg text-slate-400">
-		Vestara is a Web3 platform built on Polygon where donors
+		Vestara is a Web3 platform built on Solana where donors
 		contribute branded secondhand goods and receive ARA
 		(ARA) — a utility token — in return. Those tokens can then
 		be used to claim other items in the Vestara marketplace.
@@ -317,11 +317,13 @@
 <!-- About -->
 <section id="about" class="px-4 py-24">
 	<div class="mx-auto max-w-3xl text-center">
-		<h2 class="text-4xl font-bold text-white">About VestAra</h2>
+		<h2 class="text-4xl font-bold text-white">About Vestara</h2>
 		<p class="mt-5 text-lg leading-relaxed text-slate-400">
-			VestAra is a decentralized donation platform that bridges generosity with blockchain-powered
-			incentives. We believe that doing good should be recognized — and rewarded. By earning ARA
-			tokens, donors build a stake in the ecosystem they're helping to create.
+			Vestara is an innovative Web3 platform built on the Solana blockchain that revolutionizes sustainable consumption through a circular economy model. The platform enables donors to contribute branded secondhand goods—ranging from fashion and accessories to electronics and lifestyle products—into a curated digital marketplace.
+			In exchange for their donations, contributors are rewarded with ARA tokens, a native utility token that powers the Vestara ecosystem. This tokenized incentive system transforms traditional charitable giving into a value-driven experience, where every contribution is recognized and rewarded on the blockchain.
+			Once donors receive their ARA tokens, they can use them to browse and claim other pre-vetted, quality secondhand items available in the Vestara marketplace. This creates a sustainable cycle where goods continue to find new life with different owners, reducing waste and promoting environmentally conscious consumption.
+			Built on Solana, Vestara leverages the blockchain's high-speed transactions, low fees, and scalability to ensure a seamless user experience. The platform combines the principles of sustainability, community-driven sharing, and Web3 technology to create a transparent, trustless ecosystem where every transaction is recorded on-chain, token distribution is automated through smart contracts, and users maintain full ownership and control of their digital assets.
+			Vestara represents more than just a marketplace—it's a movement toward responsible consumption, powered by blockchain technology and community participation.
 		</p>
 		<p class="mt-4 text-slate-500">
 			All donations are verified on-chain. Campaign funds are held in smart contracts and released
