@@ -109,8 +109,8 @@
 	<div class="mx-auto flex max-w-7xl items-center justify-between px-4 py-3">
 		<a href={resolve('/')} class="flex items-center gap-1 text-lg font-bold text-white">
 			<!-- <span class="rounded-lg bg-violet-600 px-2 py-0.5 text-white"></span> -->
-			<img src="{logo}" alt="VestAra Logo" class="h-10" />
-			<span class="text-slate-200">VestAra</span>
+			<img src="{logo}" alt="Vestara Logo" class="h-10" />
+			<span class="text-slate-200">Vestara</span>
 		</a>
 
 		<!-- Desktop Nav -->
@@ -200,7 +200,7 @@
 		class="inline-flex items-center rounded-full border border-violet-500/40 bg-violet-500/10 px-3 py-1.5 text-sm text-violet-300"
 	>
 		<span class="h-2 w-2 animate-pulse rounded-full bg-violet-400"></span>
-		Earn ARA tokens with every donation
+		The first blockchain platform for branded secondhand goods donation.
 	</div>
 	<h1 class="mt-6 max-w-3xl text-5xl leading-tight font-extrabold text-white md:text-6xl">
 		Donate for Good,<br />
@@ -209,8 +209,10 @@
 		</span>
 	</h1>
 	<p class="mt-5 max-w-xl text-lg text-slate-400">
-		Every donation you make earns you ARA tokens — a crypto reward that grows with your generosity.
-		Make an impact and get rewarded for it.
+		Vestara is a Web3 platform built on Polygon where donors
+		contribute branded secondhand goods and receive ARA
+		(ARA) — a utility token — in return. Those tokens can then
+		be used to claim other items in the Vestara marketplace.
 	</p>
 	<div class="mt-8 flex flex-wrap justify-center gap-4">
 		<button
@@ -243,7 +245,7 @@
 	<div class="mx-auto max-w-5xl">
 		<div class="mb-12 text-center">
 			<h2 class="text-4xl font-bold text-white">How It Works</h2>
-			<p class="mt-3 text-slate-400">Three simple steps to donate and start earning ARA tokens.</p>
+			<p class="mt-3 text-slate-400">Three simple steps to donate, earn and trade ARA tokens.</p>
 		</div>
 
 		<div class="grid gap-8 md:grid-cols-3">
