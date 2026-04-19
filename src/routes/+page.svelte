@@ -1,5 +1,7 @@
 <script lang="ts">
 	import { resolve } from '$app/paths';
+	import logo from '$lib/assets/favicon.svg';
+	import coin from '$lib/assets/coin.svg';
 	let mobileMenuOpen = $state(false);
 	// let donationAmount = $state('');
 	// let selectedPreset = $state<number | null>(null);
@@ -107,7 +109,7 @@
 	<div class="mx-auto flex max-w-7xl items-center justify-between px-4 py-3">
 		<a href={resolve('/')} class="flex items-center gap-1 text-lg font-bold text-white">
 			<!-- <span class="rounded-lg bg-violet-600 px-2 py-0.5 text-white"></span> -->
-			<img src="/favicon.svg" alt="VestAra Logo" class="h-10" />
+			<img src="{logo}" alt="VestAra Logo" class="h-10" />
 			<span class="text-slate-200">VestAra</span>
 		</a>
 
@@ -261,7 +263,7 @@
 				<div
 					class="flex h-50 w-50 shrink-0 items-center justify-center rounded-full font-black text-white shadow-lg shadow-violet-900"
 				>
-					<img src="/Coin.svg" alt="ARA Token Logo" />
+					<img src="{coin}" alt="ARA Token Logo" />
 				</div>
 				<div>
 					<h3 class="text-xl font-bold text-white">About the ARA Token</h3>
@@ -343,7 +345,7 @@
 	<div class="mx-auto max-w-7xl">
 		<div class="flex flex-col items-center gap-4 md:flex-row md:justify-between">
 			<div class="flex items-center gap-1 text-lg font-bold text-white">
-				<img src="/favicon.svg" alt="Ara Logo" class="h-20" />
+				<img src="{logo}" alt="Ara Logo" class="h-20" />
 			</div>
 			<nav class="flex flex-wrap justify-center gap-5 text-sm text-slate-500">
 				{#each navLinks as link (link.id)}
